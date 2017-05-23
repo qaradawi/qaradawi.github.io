@@ -1,0 +1,3 @@
+[submodule "qaradawi.github.io"]
+    path = qaradawi.github.io
+    url = https://github.com/qaradawi/qaradawi.github.io
